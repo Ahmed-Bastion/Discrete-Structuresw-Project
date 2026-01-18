@@ -101,68 +101,9 @@ This project is for educational purposes only.
 ---
 
 **Team Members**:
-- Muhammad Ahmed Waseem (25I-2037)
-- Huzaifa Anwar (25I-2152)
+- Muhammad Ahmed Waseem 
+- Huzaifa Anwar 
 ```
 
 ---
 
-## LinkedIn Post Guide
-
-### Option 1: Technical Focus (Recommended)
-```
-🔐 Cryptography in Action: First Semester Project
-
-Just completed my Discrete Structures project at FAST University Islamabad, implementing three fundamental cryptographic algorithms from scratch in C++:
-
-✅ Caesar Cipher with custom modular arithmetic
-✅ RSA Encryption with Chinese Remainder Theorem optimization
-✅ XOR Cipher integrated with Diffie-Hellman key exchange
-
-Key Technical Achievements:
-- Implemented all mathematical operations without built-in modulo operators
-- Applied CRT to reduce RSA decryption time by ~75%
-- Built dynamic prime generation and Extended Euclidean Algorithm for key computation
-
-This project deepened my understanding of:
-→ Modular arithmetic and number theory
-→ Asymmetric vs symmetric encryption
-→ Algorithm optimization techniques
-→ The mathematical foundations of cybersecurity
-
-While these are educational implementations (not production-ready), they demonstrate the core principles that underpin modern cryptographic systems.
-
-🔗 Full code and documentation on GitHub: [your-link]
-
-#CyberSecurity #Cryptography #CPlusPlus #ComputerScience #Learning #FASTUniversity #InfoSec
-
----
-
-Special thanks to Ms. Rabail Zahid for guidance and my project partner Huzaifa Anwar.
-```
-
-### Option 2: Career-Focused
-```
-📚 From Theory to Code: My Cryptography Journey
-
-As a first-semester BS Cyber Security student at FAST University, I just completed a project that brought mathematical concepts to life through code.
-
-The Challenge:
-Implement Caesar Cipher, RSA, and XOR+Diffie-Hellman algorithms in C++ with strict constraints—no built-in modulo operators, custom mathematical functions, and optimization requirements.
-
-What I Learned:
-🔹 How theoretical math translates into practical security systems
-🔹 The importance of algorithm optimization (achieved 75% faster RSA decryption)
-🔹 Why understanding fundamentals matters in cybersecurity
-🔹 How to document and present technical work professionally
-
-The Result:
-Three working implementations that encrypt and decrypt data, complete with comparative analysis and correctness proofs.
-
-This is just the beginning of my cybersecurity journey. Excited to build on these foundations and contribute to making digital systems more secure.
-
-📂 Project details: [GitHub link]
-
-#CyberSecurityStudent #LearningJourney #Cryptography #TechEducation #FASTUniversity
-
-What cryptographic concepts fascinate you the most? Drop your thoughts below! 👇
